@@ -1,0 +1,3 @@
+84729,"",10,D-Critical,213.178.248.20,tcp,0,Microsoft Windows Server 2003 Unsupported Installation Detection,"","","","","",""
+0,"",4.3,B-Medium,213.178.248.20,tcp,443,Multiple SSL/TLS weaknesses,"","","","","",""
+85582,"",4.3,B-Medium,213.178.248.20,tcp,443,Web Application Potentially Vulnerable to Clickjacking,"","","","","",""
